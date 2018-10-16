@@ -1,2 +1,8 @@
-# About-StartHere-FAQ
-If you're new to Open Source Malaria, come here first
+# This is the Open Source Malaria (OSM) General Repository
+This page describes the basics of OSM. For more detail, go to the wiki (link above). To ask a question, post an Issue (also above).
+
+OSM is for anyone interested in working on malaria in an open source manner. "Open source" means that you work in line with the [Six Laws](https://pubs.acs.org/doi/full/10.1021/acscentsci.6b00086). The most important of these is that all data and ideas are freely shared, anyone may participate and there will be no patents. While OSM has a current focus on the discovery and development of new medicines, it is intended as a platform for any malaria-related research.
+
+There is a basic [Landing Page](http://opensourcemalaria.org/) which imports activity, but is not human-curated. Updates go to [Twitter](https://twitter.com/O_S_M). All OSM molecules are on the [Master List](https://docs.google.com/spreadsheets/d/1Rvy6OiM291d1GN_cyT6eSw_C3lSuJ1jaR7AJa8hgGsc/edit#gid=510297618). Github (what you're looking at) is used for discussion and for file sharing. Different parts of OSM have different "repositories" or "repos", from the About one (what you're looking at) to the specific (such as the [repo for Series 4](https://github.com/OpenSourceMalaria/Series4)). Discussion takes place by posting, and replying to, Issues (link above). To contribute, get a Github account. It's easy and non-spammy.
+
+There is an old [Google+ community](https://plus.google.com/communities/105318249049322037798) that could be resurrected. There is an email address (opensourcemalaria@gmail.com) but email is discouraged because it is bilateral.
