@@ -1,5 +1,5 @@
 # This is the Open Source Malaria (OSM) General Repository
-This page describes the basics of OSM. For more detail, go to the wiki (link above). To ask a question, post an Issue (also above).
+This page describes the basics of OSM. For more detail, go to the wiki (link above). To ask a question, post an Issue (also above). You may be here, but actually looking for specific projects, like [Series 4](https://github.com/OpenSourceMalaria/Series4) or [Series 3](https://github.com/OpenSourceMalaria/Series3) or maybe even the published [Series 1](https://pubs.acs.org/doi/full/10.1021/acscentsci.6b00086).
 
 OSM is for anyone interested in working on malaria in an open source manner. "Open source" means that you work in line with the [Six Laws](https://pubs.acs.org/doi/full/10.1021/acscentsci.6b00086). The most important of these is that all data and ideas are freely shared, anyone may participate and there will be no patents. While OSM has a current focus on the discovery and development of new medicines, it is intended as a platform for any malaria-related research.
 
